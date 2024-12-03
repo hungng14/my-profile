@@ -24,7 +24,8 @@ function App() {
     'Express',
     'PostgreSQL',
     'MySQL',
-    'MongoDB'
+    'MongoDB',
+    'Go'
   ];
 
   const hobbies = ['Traveling', 'Reading', 'Football', 'Running', 'Cycling'];
