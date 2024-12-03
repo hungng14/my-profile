@@ -1,8 +1,7 @@
 {
   "ci": {
     "collect": {
-      "url": ["http://localhost:3000"],
-      "startServerCommand": "npm run build && npm run preview",
+      "url": ["https://hungng14.github.io/my-profile/"],
       "numberOfRuns": 3
     },
     "upload": {
